@@ -9,4 +9,4 @@
 El nuevo dataset, con las condiciones especificadas en el proyecto (al menos 5000
 instancias, al menos 30 columnas, al menos el 10% han de ser categóricas, al
 menos un 5% de datos faltantes en al menos 3 columnas), se encuentra disponible en: https://drive.google.com/file/d/1hLxIxaDdUI2r9jQS7sVbTAFbtBazijGO/view?usp=sharing
-### Videos: Video primera entrega: https://youtu.be/SFNET_DxNPM
+### Videos: [Video primera entrega](https://youtu.be/SFNET_DxNPM) 
